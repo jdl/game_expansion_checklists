@@ -61,6 +61,13 @@
 [ ] The Wilds of Rhovanion
   [ ] The Withered Heath
   [ ] Roam Across Rhovanion
+  [ ] Fire in the Night
+  [ ] The Ghost of Framsburg
+  [ ] Mount Gundabad
+  [ ] The Fate of Wilderlands
+
+[ ] A Shadow in the East
+
 
 -- Saga --
 
@@ -89,3 +96,5 @@
 [ ] The Siege of Annuminas
 [ ] Attack on Dol Guldur
 [ ] The Wizard's Quest
+[ ] The Woodland Realm
+
