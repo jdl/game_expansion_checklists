@@ -35,8 +35,17 @@
   [ ] In the Clutches of Chaos
   [ ] Before the Black Throne
 
+[ ] The Dream-Eaters
+  [ ] The Search for Kadath
+  [ ] A Thousand Shapes of Horror
+  [ ] Dark Side of the Moon
+  [ ] Point of No Return
+  [ ] Where the Gods Dwell
+  [ ] Weaver of the Cosmos
+
 [ ] Return to the Night of the Zealot
 [ ] Return to the Dunwich Legacy
+[ ] Return to the Path to Carcosa
 
 -- stand-alone scenarios --
 
@@ -46,4 +55,6 @@
 [ ] Guardians of the Abyss
 [ ] The Eternal Slumber
 [ ] The Night's Usurper
+[ ] Murder at the Excelsior Hotel
+[ ] The Blob That Ate Everything
 

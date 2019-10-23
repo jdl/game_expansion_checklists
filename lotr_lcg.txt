@@ -67,6 +67,8 @@
   [ ] The Fate of Wilderlands
 
 [ ] A Shadow in the East
+  [ ] Wrath and Ruin
+  [ ] The City of Ulfast
 
 
 -- Saga --
