@@ -43,9 +43,26 @@
   [ ] Where the Gods Dwell
   [ ] Weaver of the Cosmos
 
+[ ] The Innsmouth Conspiracy Cycle
+  [ ] In Too Deep
+  [ ] Devil Reef
+  [ ] Horror in High Gear
+  [ ] A Light in the Fog
+  [ ] The Lair of Dagon
+  [ ] Into the Maelstrom
+
 [ ] Return to the Night of the Zealot
 [ ] Return to the Dunwich Legacy
 [ ] Return to the Path to Carcosa
+
+-- investigator starter decks --
+
+[ ] Nathaniel Cho
+[ ] Harvey Walters
+[ ] Winifred Habbamock
+[ ] Jacqueline Fine
+[ ] Stella Clark
+
 
 -- stand-alone scenarios --
 
@@ -57,4 +74,8 @@
 [ ] The Night's Usurper
 [ ] Murder at the Excelsior Hotel
 [ ] The Blob That Ate Everything
+[ ] Barkham Horror: The Meddling
+    of Meowlathotep
+[ ] War Of The Outer Gods
+
 
