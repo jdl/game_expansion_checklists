@@ -1,16 +1,13 @@
-== Lord of the Rings LCG Checklist == 
-
-[ ] Core Set
-[ ] Core Set
-[ ] Core Set
+== Lord of the Rings LCG Checklist ==
+[ ][ ][ ] Core Set
   [ ] The Hunt for Gollum
   [ ] Conflict at the Carrock
   [ ] A Journey to Rhosgobel
   [ ] The Hills of Emyn Muil
   [ ] The Dead Marshes
   [ ] Return to Mirkwood
-  
-[ ] Khazad-dum
+
+[ ] Khazad-dûm
   [ ] The Redhorn Gate
   [ ] Road to Rivendell
   [ ] The Watcher in the Water
@@ -25,7 +22,7 @@
   [ ] Assault on Osgiliath
   [ ] The Blood of Gondor
   [ ] The Morgul Vale
-  
+
 [ ] The Voice of Isengard
   [ ] The Dunland Trap
   [ ] The Three Trials
@@ -74,8 +71,6 @@
   [ ] The Land of Sorrow
   [ ] Fortress of Nurn
 
-
-
 -- Saga --
 
 [ ] The Hobbit: Over Hill and Under Hill
@@ -84,18 +79,20 @@
 [ ] LotR I: The Road Darkens
 [ ] LotR II: The Treason of Saruman
 [ ] LotR II: The Land of Shadow
-[ ] LotR III: The Flame of the West 
+[ ] LotR III: The Flame of the West
 [ ] LotR III: The Mountain of Fire
+
+-- GNK --
+[ ] GNK 2013 Season 1
+[ ] GNK 2013 Season 2
+[ ] GNK 2013 Season 3
+[ ] GNK 2014 Season 1
+[ ] GNK 2014 Fall Season
 
 -- Other --
 [ ] The Massing at Osgiliath
 [ ] The Battle of Lake-town
-[ ] GNK 2013 Season 1
-[ ] GNK 2013 Season 2
 [ ] The Stone of Erech
-[ ] GNK 2013 Season 3
-[ ] GNK 2014 Season 1
-[ ] GNK 2014 Fall Season
 [ ] The Old Forest
 [ ] Fog on the Barrow-downs
 [ ] The Ruins of Belegost
@@ -104,4 +101,19 @@
 [ ] Attack on Dol Guldur
 [ ] The Wizard's Quest
 [ ] The Woodland Realm
+[ ] The Mines of Moria
+[ ] Escape from Kazad-dûm
+[ ] The Hunt for the Dreadnought
+[ ] The Dark of Mirkwood
+
+
+
+
+
+
+
+
+
+
+
 
